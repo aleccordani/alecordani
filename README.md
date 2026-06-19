@@ -3,9 +3,13 @@
 Informatics Engineering Student passionate about Web Development, AI, and Software Engineering.
 
 ## 🚀 Tech Stack
+- Python
+- Laravel
 - PHP
 - MySQL
 - JavaScript
+- TypeScript
+- Kotlin & Java
 - React
 - Next.js
 - Tailwind CSS
@@ -14,7 +18,7 @@ Informatics Engineering Student passionate about Web Development, AI, and Softwa
 ## 📂 Featured Projects
 - Blockchain Based Attendance System
 - Alvira AI Assistant
-- Tamuku Digital Invitation Platform
+- WinzFood
 
 ## 🌱 Currently Learning
 - Next.js
