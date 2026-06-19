@@ -22,5 +22,5 @@ Informatics Engineering Student passionate about Web Development, AI, and Softwa
 - Full Stack Development
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/muhammad-dani-27399426a
+- LinkedIn: https://www.linkedin.com/in/muhammaddanisetyawan/
 - GitHub: github.com/alecordani
